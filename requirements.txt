@@ -1,0 +1,6 @@
+mypy==1.5.1
+flake8==6.1.0
+black==23.9.1
+
+pyTelegramBotAPI==4.16.1
+python-dotenv==1.0.1
